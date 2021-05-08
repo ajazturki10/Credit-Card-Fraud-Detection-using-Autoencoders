@@ -16,3 +16,7 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 
 
 **Data** : https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+**Reference**
+
+Paper : https://arxiv.org/abs/1908.11553
